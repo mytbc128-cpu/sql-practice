@@ -13,6 +13,14 @@ SELECT name FROM customers;
 
 Notes:
 The SELECT statement retrieves data from one or more columns in a table.
-After that, clik Commit changes at the bottom
 
-When you’ve done that, reply Done.
+
+## Exercise
+
+Write a query to show only the age column.
+
+Answer:
+
+SELECT age FROM customers;
+
+
