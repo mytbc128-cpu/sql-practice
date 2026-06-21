@@ -1,1 +1,18 @@
+# Lesson 001: SELECT Statement
 
+## Goal
+Learn how to retrieve data from a table.
+
+Example:
+
+SELECT * FROM customers;
+
+Practice:
+
+SELECT name FROM customers;
+
+Notes:
+The SELECT statement retrieves data from one or more columns in a table.
+After that, clik Commit changes at the bottom
+
+When you’ve done that, reply Done.
